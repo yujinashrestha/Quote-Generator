@@ -1,5 +1,6 @@
 {
   "name": "quote-generator",
+  "important":true,
   "version": "1.0.0",
   "description": "Generate and share inspiring quotes with ease!",
   "main": "index.js",
